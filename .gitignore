@@ -1,8 +1,9 @@
-# Data source #
+# Raw data source #
 ###################
 *.xlsx
 *.csv
 *.dat
+*.npz
 
 # Compiled source #
 ###################
