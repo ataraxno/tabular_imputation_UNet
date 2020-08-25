@@ -38,4 +38,8 @@
 .DS_Store*
 ehthumbs.db
 Icon?
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+>>>>>>> ea32635715b9625c35938f3518c82c533cffe8d3
