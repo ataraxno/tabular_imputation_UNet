@@ -4,6 +4,8 @@
 *.csv
 *.dat
 *.npz
+*.ipynb_checkpoints
+tmp/
 
 # Compiled source #
 ###################
